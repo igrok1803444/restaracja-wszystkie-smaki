@@ -1,0 +1,90 @@
+body {
+  background-color: #f6e5dc;
+  font-family: Verdana, sans-serif;
+}
+.header {
+  float: left;
+
+  height: 60px;
+  width: 100%;
+
+  background-color: #2f180c;
+
+  text-align: center;
+  color: khaki;
+}
+.main-title {
+  margin: 0;
+}
+.left-section {
+  width: 60%;
+
+  float: left;
+}
+.menu-photo {
+  height: 350px;
+}
+.right-section {
+  box-sizing: border-box;
+  width: 40%;
+
+  padding: 70px;
+
+  font-size: 150%;
+  float: left;
+}
+.right-section-title {
+}
+.cost-list {
+}
+.cost-item {
+}
+.bottom-section {
+  background-color: #d0b6a8;
+  float: left;
+
+  width: 100%;
+
+  padding: 30px;
+
+  text-align: center;
+}
+.bottom-section-title {
+}
+.reservation-form {
+}
+.reservation-form input {
+  display: block;
+
+  margin: 0 auto;
+}
+.date-label {
+}
+.count-of-person-label {
+}
+.phone-label {
+}
+#privacy-policy {
+  display: inline-block;
+}
+.privacy-label {
+}
+.reservation-form button {
+  margin: 10px;
+
+  padding: 5px;
+
+  background-color: #2f180c;
+
+  color: khaki;
+}
+.footer {
+  float: left;
+  width: 100%;
+
+  background-color: #2f180c;
+
+  color: khaki;
+}
+.footer-text {
+}
