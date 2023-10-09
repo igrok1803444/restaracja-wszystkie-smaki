@@ -1,7 +1,11 @@
 body {
+  width: 100%;
   background-color: #f6e5dc;
   font-family: Verdana, sans-serif;
+
+  overflow-x: hidden;
 }
+
 .header {
   float: left;
 
@@ -12,6 +16,8 @@ body {
 
   text-align: center;
   color: khaki;
+}
+main {
 }
 .main-title {
   margin: 0;
